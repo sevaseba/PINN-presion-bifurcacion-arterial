@@ -1,1 +1,1 @@
-# PINN-para-predecir-Presi-n-Sangu-nea
+# PINN-para-predecir-Presión-Sanguínea
