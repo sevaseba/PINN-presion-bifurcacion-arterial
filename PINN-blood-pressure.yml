@@ -1,0 +1,11 @@
+name: PINN-blood-pressure
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.11
+  - numpy>=1.23
+  - scipy>=1.14
+  - matplotlib>=3.8
+  - tensorflow>=2.13
+  - jupyterlab>=4.2
